@@ -1,0 +1,67 @@
+
+
+body {
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-image: url("bg.jpg");
+    
+} 
+h1{
+    align-items: center;
+    justify-content: center;
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: double;
+    text-size-adjust:initial ;
+    display: flex;
+    color: #c51717;
+    background-color: rgb(234, 213, 120);
+    height: fit-content;
+    opacity: 1;
+    
+
+}
+ .options{
+    padding-top: 150px;
+   align-items: center;
+    justify-content: center; 
+    display: list-item;
+   justify-items: center;
+
+
+ 
+ }
+ h3{
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+    color: rgb(146, 250, 27);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+.sea{
+    height: 30px;
+    padding: 20px 20px 20px 20px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+   
+}
+.sea button{
+    background-image: url("wave.jpg");
+    padding: 10px 50px 10px 50px;
+    border-radius: 8px;
+}
+.des{
+    
+    justify-content: center;
+    display:flex;
+    align-items: center;
+
+}
+.des button{
+    background-image: url("desert.jpg");
+    padding: 10px 50px 10px 50px;
+    border-radius: 8px;
+}
